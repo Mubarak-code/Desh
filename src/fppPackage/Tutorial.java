@@ -45,6 +45,7 @@ public class Tutorial  {
 		names[2] = "Hauwa";
 		names[3] = "Moji";
 		names[4] = "Gbenga";
+		names [5] = "Dadaboy";
 		
 //		 for (int i = 0; i < names.length; i++) {
 //			 
