@@ -38,7 +38,7 @@ public class RootMain {
 	public static void writeString(LinkedList <Character> vist) {
 		
 		System.out.println(vist);
-		System.out.println("Bang");
+		System.out.println("Ok");
 	}
 	
 	// Len(LinkedList)
