@@ -1,2 +1,0 @@
-# Desh
-Tutorial codes
